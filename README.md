@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⏩ I am a software engineer interested in programming applications with Front-end Developers , React and UI/UX , Java Mobile , Sql. I am also interested in Agile management and scrum and I love solve problem and self-learning.</p>
+<p align="left">⏩ Full-Stack Software Engineer experienced in React, backend development, mobile apps (Java), and SQL. Passionate about building scalable applications, applying Agile practices, and solving complex problems through continuous learning.</p>
 
 ###
 
